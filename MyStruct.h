@@ -7,6 +7,9 @@
  *
  */
 
+
+#ifndef MYSTRUCT_HEADER
+#define MYSTRUCT_HEADER
 #include <vector>
 
 struct Point{
@@ -14,10 +17,16 @@ struct Point{
 	int y;
 };
 
+struct FPoint {
+	float x;
+	float y;
+};
+
 struct MaskPoint{
 	Point Coord;
 	float data;
 	float confidence;
+	float priority;
 };
 
 struct Border{
@@ -26,8 +35,21 @@ struct Border{
 	int used;
 };
 
+struct UList {
+	std::vector<Point> list;
+	int size, minX, maxX, minY, maxY;
+	Point coord;
+};
+
 struct RGB{
 	float r;
 	float g;
 	float b;
 };
+
+struct GradStruct {
+	RGB x;
+	RGB y;
+};
+
+#endif // MYSTRUCT_HEADER
