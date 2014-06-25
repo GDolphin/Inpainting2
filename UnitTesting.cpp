@@ -35,54 +35,6 @@ int unitTest(){
 	mask.display(); // should display the border in red
 	mask.load(maskPath);
 	
-	// Testing class CImage
-	CImage img;
-	img.loadImg(imgPath);
-	
- CImage truc;
- truc.loadImg(imgPath);
- truc.blurNGrad();
- truc.displayImg();
- img.displayImg();
 
- // testing erosion
- erode2 = erode;
- CImgDisplay imgDisp(erode);
- while (!imgDisp.is_closed()){
- imgDisp.wait();
- }
- //Debug
- for (int i = 0; i < erode.width(); i++) {
- for (int j = 0; j < erode.height(); j++) {
- if (erode(i,j,0,0) == 0) {
- erode(i,j,0,0) = 2;
- erode(i,j,0,1) = 2;
- erode(i,j,0,2) = 2;
- 
- }
- }
- } 
- //
- CImgDisplay imgDisp2(erode);
- while (!imgDisp2.is_closed()){
- imgDisp2.wait();
- }
- erode2.dilate(3,3,1);
- for (int i = 0; i < erode2.width(); i++) {
- for (int j = 0; j < erode2.height(); j++) {
- if ((erode(i,j,0,0) == 2) and (erode2(i,j,0,0) == 1)) {
- erode2(i,j,0,0) = 2;
- erode2(i,j,0,1) = 2;
- erode2(i,j,0,2) = 2;
- 
- }
- cout << erode2(i,j,0,0);
- }
- cout << endl;
- } 
- CImgDisplay imgDisp3(erode2);
- while (!imgDisp3.is_closed()){
- imgDisp3.wait();
- }
 	return 0;
 }*/
