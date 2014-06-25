@@ -10,7 +10,6 @@
 		8DD76F650486A84900D96B5E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 08FB7796FE84155DC02AAC07 /* main.cpp */; settings = {ATTRIBUTES = (); }; };
 		8DD76F6A0486A84900D96B5E /* inpaint.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = C6859E8B029090EE04C91782 /* inpaint.1 */; };
 		9780625F19492E0A00595990 /* UnitTesting.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9780625E19492E0A00595990 /* UnitTesting.cpp */; };
-		97E88EB8194A050300EA5172 /* CImage.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 97E88EB7194A050300EA5172 /* CImage.cpp */; };
 		97F11C5A1947A213005555AA /* CInpainting.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 97F11C591947A213005555AA /* CInpainting.cpp */; };
 		97F11C5D1947A4BB005555AA /* CMask.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 97F11C5C1947A4BB005555AA /* CMask.cpp */; };
 /* End PBXBuildFile section */
@@ -36,8 +35,6 @@
 		9780625E19492E0A00595990 /* UnitTesting.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = UnitTesting.cpp; sourceTree = "<group>"; };
 		979CFC9C194683E500B8BCB4 /* CImg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CImg.h; sourceTree = "<group>"; };
 		979CFCBC1946858900B8BCB4 /* libUntitled.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libUntitled.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		97E88EB6194A050300EA5172 /* CImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CImage.h; sourceTree = "<group>"; };
-		97E88EB7194A050300EA5172 /* CImage.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CImage.cpp; sourceTree = "<group>"; };
 		97F11C581947A213005555AA /* CInpainting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CInpainting.h; sourceTree = "<group>"; };
 		97F11C591947A213005555AA /* CInpainting.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CInpainting.cpp; sourceTree = "<group>"; };
 		97F11C5B1947A4BB005555AA /* CMask.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CMask.h; sourceTree = "<group>"; };
@@ -85,8 +82,6 @@
 				9780606519489CD600595990 /* MyStruct.h */,
 				9780625D19492E0A00595990 /* UnitTesting.h */,
 				9780625E19492E0A00595990 /* UnitTesting.cpp */,
-				97E88EB6194A050300EA5172 /* CImage.h */,
-				97E88EB7194A050300EA5172 /* CImage.cpp */,
 			);
 			name = Source;
 			sourceTree = "<group>";
@@ -183,7 +178,6 @@
 				97F11C5A1947A213005555AA /* CInpainting.cpp in Sources */,
 				97F11C5D1947A4BB005555AA /* CMask.cpp in Sources */,
 				9780625F19492E0A00595990 /* UnitTesting.cpp in Sources */,
-				97E88EB8194A050300EA5172 /* CImage.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -52,4 +52,5 @@ struct GradStruct {
 	RGB y;
 };
 
+
 #endif // MYSTRUCT_HEADER

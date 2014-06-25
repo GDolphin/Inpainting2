@@ -18,8 +18,8 @@ int main(int argc, char * argv[]) {
 	 imgDisp.wait();
 		imgDisp2.wait();
 	 }*/
-	CInpainting truc;
-	truc.inpaint(maskPath, imgPath);
+	CInpainting truc(maskPath, imgPath, 3,3);
+	truc.inpaint();
 		/*CImg<float> bidule(maskPath);
 	CInpainting troll;
 	troll.loadMask(maskPath);

@@ -10,32 +10,31 @@
 #ifndef CINPAINTING_HEADER
 #define CINPAINTING_HEADER
 #include "CMask.h"
-#include "CImage.h"
 
 class CInpainting{
 	public:
-	CInpainting();
+	CInpainting(char *maskPath, char *imgPath,int halfWinX, int halfWinY);
 	~CInpainting();
-	void loadMask(char *maskPath);
-	void displayMask();
 	void detectMaskBorder();
 	void patchSize(int x, int y);
 	void computeConfidence(int i);
 	void computeData(int i);
-	void loadImg(char *imgPath, char *maskPath);
 	int getMaxPrior();
 	UList seekBestPatch(int n);
 	bool isEmpty(int minX, int maxX, int minY, int maxY, Point point);
 	bool isMaskEmpty();
-	void inpaint(char *maskPath, char *imgPath);
+	void inpaint();
 	void updateAll(UList uList, int n);
+	void computeGrad();
 	
 	private :
-	CMask mMask;
 	Border mBorder;
 	Point mHalfPatchSize; // This name is just horrible
 	Point mSize;
-	CImage mImg;
+	CMask mMask;
+	cimg_library::CImg<float> mImg;
+	std::vector<cimg_library::CImg<float> > mGrad;
+	float *imgL,*imgA,*imgB,*gradX,*gradY,*gradX2, *gradY2, *mask2;
 };
 
 #endif
