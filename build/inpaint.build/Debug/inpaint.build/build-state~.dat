@@ -1,0 +1,320 @@
+Tinpaint
+v7
+r0
+t424051782.193705
+cCheck dependencies
+cCompileC build/inpaint.build/Debug/inpaint.build/Objects-normal/x86_64/main.o /Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/build/Debug/inpaint normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/X11/Xlib.h
+c000000004A519191000000000001844B
+t1246859665
+s99403
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/X11/Xutil.h
+c000000004A519191000000000000529A
+t1246859665
+s21146
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/X11/extensions/XShm.h
+c000000004A5830E900000000000010BD
+t1247293673
+s4285
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/X11/extensions/Xrandr.h
+c000000004A519652000000000000335C
+t1246860882
+s13148
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/X11/keysym.h
+c000000004A5831370000000000000B4C
+t1247293751
+s2892
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/pthread.h
+c000000004A5C14A700000000000038F0
+t1247548583
+s14576
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/setjmp.h
+c000000004A5C14A60000000000000438
+t1247548582
+s1080
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/ipc.h
+c000000004A73D6510000000000001A0E
+t1249105489
+s6670
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/shm.h
+c000000004A73D6540000000000001C40
+t1249105492
+s7232
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/time.h
+c000000004A73D6550000000000001E17
+t1249105493
+s7703
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/types.h
+c000000004A73D6550000000000002905
+t1249105493
+s10501
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004A5C14A7000000000000563E
+t1247548583
+s22078
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/zlib.h
+c000000004A1F0FE200000000000102A5
+t1243549666
+s66213
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/omp.h
+c000000004A1199040000000000000AE9
+t1242667268
+s2793
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h
+c000000004A11EB24000000000000190C
+t1242688292
+s6412
+
+N/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/CImg.h
+c00000000539460DC0000000000237AEE
+t1402233052
+s2325230
+i<cstdio>
+i<cstdlib>
+i<cstdarg>
+i<cstring>
+i<cmath>
+i<ctime>
+i<exception>
+i<sys/types.h>
+i<sys/time.h>
+i<unistd.h>
+i<windows.h>
+i<shlobj.h>
+i<process.h>
+i<io.h>
+i<stdio.h>
+i<X11/Xlib.h>
+i<X11/Xutil.h>
+i<X11/keysym.h>
+i<pthread.h>
+i<sys/ipc.h>
+i<sys/shm.h>
+i<X11/extensions/XShm.h>
+i<X11/extensions/Xrandr.h>
+i<omp.h>
+i<cstddef>
+i"cv.h"
+i"highgui.h"
+i"png.h"
+i"jpeglib.h"
+i"setjmp.h"
+i"tiffio.h"
+i"minc_io_simple_volume.h"
+i"minc_1_simple.h"
+i"minc_1_simple_rw.h"
+i<libavformat/avformat.h>
+i<libavcodec/avcodec.h>
+i<libswscale/swscale.h>
+i"zlib.h"
+i"Magick++.h"
+i"fftw3.h"
+i"Board.h"
+i"ImfRgbaFile.h"
+i"ImfInputFile.h"
+i"ImfChannelList.h"
+i"ImfMatrixAttribute.h"
+i"ImfArray.h"
+i"CImg.h"
+i<stdint.h>
+
+N/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/build/Debug/inpaint
+t2
+s0
+
+N/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/build/inpaint.build/Debug/inpaint.build/Objects-normal/x86_64/inpaint.LinkFileList
+c0000000053964CC6000000000000007B
+t1402358982
+s123
+
+N/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/build/inpaint.build/Debug/inpaint.build/Objects-normal/x86_64/main.o
+t1402358904
+s2091008
+
+N/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/main.cpp
+c0000000053964C730000000000000140
+t1402358899
+s320
+i"CImg.h"
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies424051782#424051782#0(0"0(0#1#0"8245940720249172992#0"0#
+
+CCompileC build/inpaint.build/Debug/inpaint.build/Objects-normal/x86_64/main.o /Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s424051782.141299
+e424051782.145229
+r1
+xCompileC
+xbuild/inpaint.build/Debug/inpaint.build/Objects-normal/x86_64/main.o
+x/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/main.cpp424051782#424051782#0(0"0(0#0#62"/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/main.cpp7809643567100341248#1503"    cd /Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/build/inpaint.build/Debug/inpaint.build/inpaint-generated-files.hmap -I/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/build/inpaint.build/Debug/inpaint.build/inpaint-own-target-headers.hmap -I/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/build/inpaint.build/Debug/inpaint.build/inpaint-all-target-headers.hmap -iquote /Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/build/inpaint.build/Debug/inpaint.build/inpaint-project-headers.hmap -F/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/build/Debug -I/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/build/Debug/include -I/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/build/inpaint.build/Debug/inpaint.build/DerivedSources/x86_64 -I/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/build/inpaint.build/Debug/inpaint.build/DerivedSources -c /Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/main.cpp -o /Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/build/inpaint.build/Debug/inpaint.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/build/Debug/inpaint normal x86_64
+s424051782.145376
+e424051782.193645
+r0
+xLd
+x/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/build/Debug/inpaint
+xnormal
+xx86_64
+oUndefined symbols:
+o  "_XSetClassHint", referenced from:
+o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o
+o  "_XMoveWindow", referenced from:
+o      cimg_library::CImgDisplay::move(int, int)in main.o
+o  "_XInitThreads", referenced from:
+o      cimg_library::cimg::X11_info::X11_info()in main.o
+o  "_XSync", referenced from:
+o      cimg_library::CImgDisplay::_map_window()       in main.o
+o      cimg_library::CImgDisplay::assign()      in main.o
+o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o
+o      cimg_library::CImgDisplay::_init_fullscreen()       in main.o
+o  "_XQueryKeymap", referenced from:
+o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o
+o  "_XUngrabKeyboard", referenced from:
+o      cimg_library::CImgDisplay::_desinit_fullscreen()       in main.o
+o  "_XStoreColors", referenced from:
+o      cimg_library::CImgDisplay::_set_colormap(unsigned long&, unsigned int)in main.o
+o  "_XDestroyWindow", referenced from:
+o      cimg_library::CImgDisplay::_desinit_fullscreen()       in main.o
+o      cimg_library::CImgDisplay::assign()      in main.o
+o  "_XCreateColormap", referenced from:
+o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o
+o  "_XLookupString", referenced from:
+o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o
+o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o
+o  "_XPutImage", referenced from:
+o      cimg_library::CImgDisplay::_paint(bool)  in main.o
+o      cimg_library::CImgDisplay::_init_fullscreen()       in main.o
+o  "_XSelectInput", referenced from:
+o      cimg_library::CImgDisplay::_init_fullscreen()       in main.o
+o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o
+o  "_XStoreName", referenced from:
+o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o
+o  "_XGetVisualInfo", referenced from:
+o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o
+o  "_XGrabKeyboard", referenced from:
+o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o
+o  "_XCheckWindowEvent", referenced from:
+o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o
+o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o
+o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o
+o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o
+o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o
+o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o
+o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o
+o  "_XCheckMaskEvent", referenced from:
+o      cimg_library::CImgDisplay::_events_thread(void*)   in main.o
+o  "_XMapRaised", referenced from:
+o      cimg_library::CImgDisplay::_map_window()       in main.o
+o      cimg_library::CImgDisplay::_init_fullscreen()       in main.o
+o  "_XCreateWindow", referenced from:
+o      cimg_library::CImgDisplay::_init_fullscreen()       in main.o
+o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o
+o  "_XWindowEvent", referenced from:
+o      cimg_library::CImgDisplay::_map_window()       in main.o
+o      cimg_library::CImgDisplay::_init_fullscreen()       in main.o
+o  "_XOpenDisplay", referenced from:
+o      cimg_library::CImgDisplay::screen_height()       in main.o
+o      cimg_library::CImgDisplay::screen_width()       in main.o
+o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o
+o  "_XCloseDisplay", referenced from:
+o      cimg_library::CImgDisplay::screen_height()       in main.o
+o      cimg_library::CImgDisplay::screen_width()       in main.o
+o  "_XGetWindowAttributes", referenced from:
+o      cimg_library::CImgDisplay::_map_window()       in main.o
+o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o
+o      cimg_library::CImgDisplay::_init_fullscreen()       in main.o
+o      cimg_library::CImgDisplay::resize(int, int, bool)in main.o
+o  "_XCreateSimpleWindow", referenced from:
+o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o
+o  "_XLockDisplay", referenced from:
+o      cimg_library::CImgDisplay::paint(bool)  in main.o
+o      cimg_library::CImgDisplay::assign()      in main.o
+o      cimg_library::CImgDisplay::_events_thread(void*)   in main.o
+o      cimg_library::CImgDisplay::show()      in main.o
+o      cimg_library::CImgDisplay::move(int, int)in main.o
+o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o
+o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o
+o      cimg_library::CImgDisplay::resize(int, int, bool)in main.o
+o      cimg_library::CImgDisplay& cimg_library::CImgDisplay::render<unsigned int>(cimg_library::CImg<unsigned int> const&, bool)in main.o
+o      cimg_library::CImgDisplay& cimg_library::CImgDisplay::render<unsigned char>(cimg_library::CImg<unsigned char> const&, bool)in main.o
+o  "_XFreeColormap", referenced from:
+o      cimg_library::CImgDisplay::assign()      in main.o
+o  "_XCreateImage", referenced from:
+o      void cimg_library::CImgDisplay::_resize<unsigned char>(unsigned char, unsigned int, unsigned int, bool)in main.o
+o      void cimg_library::CImgDisplay::_resize<unsigned short>(unsigned short, unsigned int, unsigned int, bool)in main.o
+o      void cimg_library::CImgDisplay::_resize<unsigned int>(unsigned int, unsigned int, unsigned int, bool)in main.o
+o      cimg_library::CImgDisplay::_init_fullscreen()       in main.o
+o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o
+o  "_XInternAtom", referenced from:
+o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o
+o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o
+o  "_XSetInputFocus", referenced from:
+o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o
+o  "_XCheckTypedEvent", referenced from:
+o      cimg_library::CImgDisplay::_events_thread(void*)   in main.o
+o  "_XUnlockDisplay", referenced from:
+o      cimg_library::CImgDisplay::paint(bool)  in main.o
+o      cimg_library::CImgDisplay::assign()      in main.o
+o      cimg_library::CImgDisplay::_events_thread(void*)   in main.o
+o      cimg_library::CImgDisplay::show()      in main.o
+o      cimg_library::CImgDisplay::move(int, int)in main.o
+o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o
+o      cimg_library::CImgDisplay::resize(int, int, bool)in main.o
+o      cimg_library::CImgDisplay& cimg_library::CImgDisplay::render<unsigned int>(cimg_library::CImg<unsigned int> const&, bool)in main.o
+o      cimg_library::CImgDisplay& cimg_library::CImgDisplay::render<unsigned char>(cimg_library::CImg<unsigned char> const&, bool)in main.o
+o  "_XSendEvent", referenced from:
+o      cimg_library::CImgDisplay::_paint(bool)  in main.o
+o  "_XUnmapWindow", referenced from:
+o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o
+o  "_XSetWMProtocols", referenced from:
+o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o
+o  "_XAllocClassHint", referenced from:
+o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o
+o  "_XVisualIDFromVisual", referenced from:
+o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o
+o  "_XFree", referenced from:
+o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o
+o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o
+o  "_XSetWindowColormap", referenced from:
+o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o
+o  "_XResizeWindow", referenced from:
+o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o
+o      cimg_library::CImgDisplay::resize(int, int, bool)in main.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@78"Link /Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/build/Debug/inpaint424051782#424051782#0(8674"Undefined symbols:  "_XSetClassHint", referenced from:      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o  "_XMoveWindow", referenced from:      cimg_library::CImgDisplay::move(int, int)in main.o  "_XInitThreads", referenced from:      cimg_library::cimg::X11_info::X11_info()in main.o  "_XSync", referenced from:      cimg_library::CImgDisplay::_map_window()       in main.o      cimg_library::CImgDisplay::assign()      in main.o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o      cimg_library::CImgDisplay::_init_fullscreen()       in main.o  "_XQueryKeymap", referenced from:      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o  "_XUngrabKeyboard", referenced from:      cimg_library::CImgDisplay::_desinit_fullscreen()       in main.o  "_XStoreColors", referenced from:      cimg_library::CImgDisplay::_set_colormap(unsigned long&, unsigned int)in main.o  "_XDestroyWindow", referenced from:      cimg_library::CImgDisplay::_desinit_fullscreen()       in main.o      cimg_library::CImgDisplay::assign()      in main.o  "_XCreateColormap", referenced from:      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o  "_XLookupString", referenced from:      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o  "_XPutImage", referenced from:      cimg_library::CImgDisplay::_paint(bool)  in main.o      cimg_library::CImgDisplay::_init_fullscreen()       in main.o  "_XSelectInput", referenced from:      cimg_library::CImgDisplay::_init_fullscreen()       in main.o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o  "_XStoreName", referenced from:      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o  "_XGetVisualInfo", referenced from:      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o  "_XGrabKeyboard", referenced from:      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o  "_XCheckWindowEvent", referenced from:      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o  "_XCheckMaskEvent", referenced from:      cimg_library::CImgDisplay::_events_thread(void*)   in main.o  "_XMapRaised", referenced from:      cimg_library::CImgDisplay::_map_window()       in main.o      cimg_library::CImgDisplay::_init_fullscreen()       in main.o  "_XCreateWindow", referenced from:      cimg_library::CImgDisplay::_init_fullscreen()       in main.o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o  "_XWindowEvent", referenced from:      cimg_library::CImgDisplay::_map_window()       in main.o      cimg_library::CImgDisplay::_init_fullscreen()       in main.o  "_XOpenDisplay", referenced from:      cimg_library::CImgDisplay::screen_height()       in main.o      cimg_library::CImgDisplay::screen_width()       in main.o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o  "_XCloseDisplay", referenced from:      cimg_library::CImgDisplay::screen_height()       in main.o      cimg_library::CImgDisplay::screen_width()       in main.o  "_XGetWindowAttributes", referenced from:      cimg_library::CImgDisplay::_map_window()       in main.o      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o      cimg_library::CImgDisplay::_init_fullscreen()       in main.o      cimg_library::CImgDisplay::resize(int, int, bool)in main.o  "_XCreateSimpleWindow", referenced from:      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o  "_XLockDisplay", referenced from:      cimg_library::CImgDisplay::paint(bool)  in main.o      cimg_library::CImgDisplay::assign()      in main.o      cimg_library::CImgDisplay::_events_thread(void*)   in main.o      cimg_library::CImgDisplay::show()      in main.o      cimg_library::CImgDisplay::move(int, int)in main.o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o      cimg_library::CImgDisplay::resize(int, int, bool)in main.o      cimg_library::CImgDisplay& cimg_library::CImgDisplay::render<unsigned int>(cimg_library::CImg<unsigned int> const&, bool)in main.o      cimg_library::CImgDisplay& cimg_library::CImgDisplay::render<unsigned char>(cimg_library::CImg<unsigned char> const&, bool)in main.o  "_XFreeColormap", referenced from:      cimg_library::CImgDisplay::assign()      in main.o  "_XCreateImage", referenced from:      void cimg_library::CImgDisplay::_resize<unsigned char>(unsigned char, unsigned int, unsigned int, bool)in main.o      void cimg_library::CImgDisplay::_resize<unsigned short>(unsigned short, unsigned int, unsigned int, bool)in main.o      void cimg_library::CImgDisplay::_resize<unsigned int>(unsigned int, unsigned int, unsigned int, bool)in main.o      cimg_library::CImgDisplay::_init_fullscreen()       in main.o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o  "_XInternAtom", referenced from:      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o  "_XSetInputFocus", referenced from:      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o  "_XCheckTypedEvent", referenced from:      cimg_library::CImgDisplay::_events_thread(void*)   in main.o  "_XUnlockDisplay", referenced from:      cimg_library::CImgDisplay::paint(bool)  in main.o      cimg_library::CImgDisplay::assign()      in main.o      cimg_library::CImgDisplay::_events_thread(void*)   in main.o      cimg_library::CImgDisplay::show()      in main.o      cimg_library::CImgDisplay::move(int, int)in main.o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o      cimg_library::CImgDisplay::resize(int, int, bool)in main.o      cimg_library::CImgDisplay& cimg_library::CImgDisplay::render<unsigned int>(cimg_library::CImg<unsigned int> const&, bool)in main.o      cimg_library::CImgDisplay& cimg_library::CImgDisplay::render<unsigned char>(cimg_library::CImg<unsigned char> const&, bool)in main.o  "_XSendEvent", referenced from:      cimg_library::CImgDisplay::_paint(bool)  in main.o  "_XUnmapWindow", referenced from:      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o  "_XSetWMProtocols", referenced from:      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o  "_XAllocClassHint", referenced from:      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o  "_XVisualIDFromVisual", referenced from:      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o  "_XFree", referenced from:      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o  "_XSetWindowColormap", referenced from:      cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o  "_XResizeWindow", referenced from:      cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o      cimg_library::CImgDisplay::resize(int, int, bool)in main.old: symbol(s) not foundcollect2: ld returned 1 exit status126(4@34""_XSetClassHint", referenced from:424051782#19#37#0(6@0"424051782#0#0#0#0#0"0(13@110"Cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o424051782#56#117#0(6@0"424051782#0#0#0#0#0"0(4@32""_XMoveWindow", referenced from:424051782#173#35#0(6@0"424051782#0#0#0#0#0"0(13@50"Cimg_library::CImgDisplay::move(int, int)in main.o424051782#208#57#0(6@0"424051782#0#0#0#0#0"0(4@33""_XInitThreads", referenced from:424051782#265#36#0(6@0"424051782#0#0#0#0#0"0(13@49"Cimg_library::cimg::X11_info::X11_info()in main.o424051782#301#56#0(6@0"424051782#0#0#0#0#0"0(4@26""_XSync", referenced from:424051782#357#29#0(6@0"424051782#0#0#0#0#0"0(13@56"Cimg_library::CImgDisplay::_map_window()       in main.o424051782#386#63#0(6@0"424051782#0#0#0#0#0"0(13@50"Cimg_library::CImgDisplay::assign()      in main.o424051782#449#57#0(6@0"424051782#0#0#0#0#0"0(13@68"Cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o424051782#506#75#0(6@0"424051782#0#0#0#0#0"0(13@61"Cimg_library::CImgDisplay::_init_fullscreen()       in main.o424051782#581#68#0(6@0"424051782#0#0#0#0#0"0(4@33""_XQueryKeymap", referenced from:424051782#649#36#0(6@0"424051782#0#0#0#0#0"0(13@68"Cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o424051782#685#75#0(6@0"424051782#0#0#0#0#0"0(4@36""_XUngrabKeyboard", referenced from:424051782#760#39#0(6@0"424051782#0#0#0#0#0"0(13@64"Cimg_library::CImgDisplay::_desinit_fullscreen()       in main.o424051782#799#71#0(6@0"424051782#0#0#0#0#0"0(4@33""_XStoreColors", referenced from:424051782#870#36#0(6@0"424051782#0#0#0#0#0"0(13@79"Cimg_library::CImgDisplay::_set_colormap(unsigned long&, unsigned int)in main.o424051782#906#86#0(6@0"424051782#0#0#0#0#0"0(4@35""_XDestroyWindow", referenced from:424051782#992#38#0(6@0"424051782#0#0#0#0#0"0(13@64"Cimg_library::CImgDisplay::_desinit_fullscreen()       in main.o424051782#1030#71#0(6@0"424051782#0#0#0#0#0"0(13@50"Cimg_library::CImgDisplay::assign()      in main.o424051782#1101#57#0(6@0"424051782#0#0#0#0#0"0(4@36""_XCreateColormap", referenced from:424051782#1158#39#0(6@0"424051782#0#0#0#0#0"0(13@110"Cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o424051782#1197#117#0(6@0"424051782#0#0#0#0#0"0(4@34""_XLookupString", referenced from:424051782#1314#37#0(6@0"424051782#0#0#0#0#0"0(13@68"Cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o424051782#1351#75#0(6@0"424051782#0#0#0#0#0"0(13@68"Cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o424051782#1426#75#0(6@0"424051782#0#0#0#0#0"0(4@30""_XPutImage", referenced from:424051782#1501#33#0(6@0"424051782#0#0#0#0#0"0(13@50"Cimg_library::CImgDisplay::_paint(bool)  in main.o424051782#1534#57#0(6@0"424051782#0#0#0#0#0"0(13@61"Cimg_library::CImgDisplay::_init_fullscreen()       in main.o424051782#1591#68#0(6@0"424051782#0#0#0#0#0"0(4@33""_XSelectInput", referenced from:424051782#1659#36#0(6@0"424051782#0#0#0#0#0"0(13@61"Cimg_library::CImgDisplay::_init_fullscreen()       in main.o424051782#1695#68#0(6@0"424051782#0#0#0#0#0"0(13@110"Cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o424051782#1763#117#0(6@0"424051782#0#0#0#0#0"0(4@31""_XStoreName", referenced from:424051782#1880#34#0(6@0"424051782#0#0#0#0#0"0(13@110"Cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o424051782#1914#117#0(6@0"424051782#0#0#0#0#0"0(4@35""_XGetVisualInfo", referenced from:424051782#2031#38#0(6@0"424051782#0#0#0#0#0"0(13@110"Cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o424051782#2069#117#0(6@0"424051782#0#0#0#0#0"0(4@34""_XGrabKeyboard", referenced from:424051782#2186#37#0(6@0"424051782#0#0#0#0#0"0(13@110"Cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o424051782#2223#117#0(6@0"424051782#0#0#0#0#0"0(4@38""_XCheckWindowEvent", referenced from:424051782#2340#41#0(6@0"424051782#0#0#0#0#0"0(13@68"Cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o424051782#2381#75#0(6@0"424051782#0#0#0#0#0"0(13@68"Cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o424051782#2456#75#0(6@0"424051782#0#0#0#0#0"0(13@68"Cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o424051782#2531#75#0(6@0"424051782#0#0#0#0#0"0(13@68"Cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o424051782#2606#75#0(6@0"424051782#0#0#0#0#0"0(13@68"Cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o424051782#2681#75#0(6@0"424051782#0#0#0#0#0"0(13@68"Cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o424051782#2756#75#0(6@0"424051782#0#0#0#0#0"0(13@68"Cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o424051782#2831#75#0(6@0"424051782#0#0#0#0#0"0(4@36""_XCheckMaskEvent", referenced from:424051782#2906#39#0(6@0"424051782#0#0#0#0#0"0(13@60"Cimg_library::CImgDisplay::_events_thread(void*)   in main.o424051782#2945#67#0(6@0"424051782#0#0#0#0#0"0(4@31""_XMapRaised", referenced from:424051782#3012#34#0(6@0"424051782#0#0#0#0#0"0(13@56"Cimg_library::CImgDisplay::_map_window()       in main.o424051782#3046#63#0(6@0"424051782#0#0#0#0#0"0(13@61"Cimg_library::CImgDisplay::_init_fullscreen()       in main.o424051782#3109#68#0(6@0"424051782#0#0#0#0#0"0(4@34""_XCreateWindow", referenced from:424051782#3177#37#0(6@0"424051782#0#0#0#0#0"0(13@61"Cimg_library::CImgDisplay::_init_fullscreen()       in main.o424051782#3214#68#0(6@0"424051782#0#0#0#0#0"0(13@110"Cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o424051782#3282#117#0(6@0"424051782#0#0#0#0#0"0(4@33""_XWindowEvent", referenced from:424051782#3399#36#0(6@0"424051782#0#0#0#0#0"0(13@56"Cimg_library::CImgDisplay::_map_window()       in main.o424051782#3435#63#0(6@0"424051782#0#0#0#0#0"0(13@61"Cimg_library::CImgDisplay::_init_fullscreen()       in main.o424051782#3498#68#0(6@0"424051782#0#0#0#0#0"0(4@33""_XOpenDisplay", referenced from:424051782#3566#36#0(6@0"424051782#0#0#0#0#0"0(13@58"Cimg_library::CImgDisplay::screen_height()       in main.o424051782#3602#65#0(6@0"424051782#0#0#0#0#0"0(13@57"Cimg_library::CImgDisplay::screen_width()       in main.o424051782#3667#64#0(6@0"424051782#0#0#0#0#0"0(13@110"Cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o424051782#3731#117#0(6@0"424051782#0#0#0#0#0"0(4@34""_XCloseDisplay", referenced from:424051782#3848#37#0(6@0"424051782#0#0#0#0#0"0(13@58"Cimg_library::CImgDisplay::screen_height()       in main.o424051782#3885#65#0(6@0"424051782#0#0#0#0#0"0(13@57"Cimg_library::CImgDisplay::screen_width()       in main.o424051782#3950#64#0(6@0"424051782#0#0#0#0#0"0(4@41""_XGetWindowAttributes", referenced from:424051782#4014#44#0(6@0"424051782#0#0#0#0#0"0(13@56"Cimg_library::CImgDisplay::_map_window()       in main.o424051782#4058#63#0(6@0"424051782#0#0#0#0#0"0(13@68"Cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o424051782#4121#75#0(6@0"424051782#0#0#0#0#0"0(13@61"Cimg_library::CImgDisplay::_init_fullscreen()       in main.o424051782#4196#68#0(6@0"424051782#0#0#0#0#0"0(13@58"Cimg_library::CImgDisplay::resize(int, int, bool)in main.o424051782#4264#65#0(6@0"424051782#0#0#0#0#0"0(4@40""_XCreateSimpleWindow", referenced from:424051782#4329#43#0(6@0"424051782#0#0#0#0#0"0(13@110"Cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o424051782#4372#117#0(6@0"424051782#0#0#0#0#0"0(4@33""_XLockDisplay", referenced from:424051782#4489#36#0(6@0"424051782#0#0#0#0#0"0(13@49"Cimg_library::CImgDisplay::paint(bool)  in main.o424051782#4525#56#0(6@0"424051782#0#0#0#0#0"0(13@50"Cimg_library::CImgDisplay::assign()      in main.o424051782#4581#57#0(6@0"424051782#0#0#0#0#0"0(13@60"Cimg_library::CImgDisplay::_events_thread(void*)   in main.o424051782#4638#67#0(6@0"424051782#0#0#0#0#0"0(13@48"Cimg_library::CImgDisplay::show()      in main.o424051782#4705#55#0(6@0"424051782#0#0#0#0#0"0(13@50"Cimg_library::CImgDisplay::move(int, int)in main.o424051782#4760#57#0(6@0"424051782#0#0#0#0#0"0(13@110"Cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o424051782#4817#117#0(6@0"424051782#0#0#0#0#0"0(13@110"Cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o424051782#4934#117#0(6@0"424051782#0#0#0#0#0"0(13@58"Cimg_library::CImgDisplay::resize(int, int, bool)in main.o424051782#5051#65#0(6@0"424051782#0#0#0#0#0"0(13@130"Cimg_library::CImgDisplay& cimg_library::CImgDisplay::render<unsigned int>(cimg_library::CImg<unsigned int> const&, bool)in main.o424051782#5116#137#0(6@0"424051782#0#0#0#0#0"0(13@132"Cimg_library::CImgDisplay& cimg_library::CImgDisplay::render<unsigned char>(cimg_library::CImg<unsigned char> const&, bool)in main.o424051782#5253#139#0(6@0"424051782#0#0#0#0#0"0(4@34""_XFreeColormap", referenced from:424051782#5392#37#0(6@0"424051782#0#0#0#0#0"0(13@50"Cimg_library::CImgDisplay::assign()      in main.o424051782#5429#57#0(6@0"424051782#0#0#0#0#0"0(4@33""_XCreateImage", referenced from:424051782#5486#36#0(6@0"424051782#0#0#0#0#0"0(13@112"Void cimg_library::CImgDisplay::_resize<unsigned char>(unsigned char, unsigned int, unsigned int, bool)in main.o424051782#5522#119#0(6@0"424051782#0#0#0#0#0"0(13@114"Void cimg_library::CImgDisplay::_resize<unsigned short>(unsigned short, unsigned int, unsigned int, bool)in main.o424051782#5641#121#0(6@0"424051782#0#0#0#0#0"0(13@110"Void cimg_library::CImgDisplay::_resize<unsigned int>(unsigned int, unsigned int, unsigned int, bool)in main.o424051782#5762#117#0(6@0"424051782#0#0#0#0#0"0(13@61"Cimg_library::CImgDisplay::_init_fullscreen()       in main.o424051782#5879#68#0(6@0"424051782#0#0#0#0#0"0(13@110"Cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o424051782#5947#117#0(6@0"424051782#0#0#0#0#0"0(4@32""_XInternAtom", referenced from:424051782#6064#35#0(6@0"424051782#0#0#0#0#0"0(13@110"Cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o424051782#6099#117#0(6@0"424051782#0#0#0#0#0"0(13@110"Cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o424051782#6216#117#0(6@0"424051782#0#0#0#0#0"0(4@35""_XSetInputFocus", referenced from:424051782#6333#38#0(6@0"424051782#0#0#0#0#0"0(13@68"Cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o424051782#6371#75#0(6@0"424051782#0#0#0#0#0"0(4@37""_XCheckTypedEvent", referenced from:424051782#6446#40#0(6@0"424051782#0#0#0#0#0"0(13@60"Cimg_library::CImgDisplay::_events_thread(void*)   in main.o424051782#6486#67#0(6@0"424051782#0#0#0#0#0"0(4@35""_XUnlockDisplay", referenced from:424051782#6553#38#0(6@0"424051782#0#0#0#0#0"0(13@49"Cimg_library::CImgDisplay::paint(bool)  in main.o424051782#6591#56#0(6@0"424051782#0#0#0#0#0"0(13@50"Cimg_library::CImgDisplay::assign()      in main.o424051782#6647#57#0(6@0"424051782#0#0#0#0#0"0(13@60"Cimg_library::CImgDisplay::_events_thread(void*)   in main.o424051782#6704#67#0(6@0"424051782#0#0#0#0#0"0(13@48"Cimg_library::CImgDisplay::show()      in main.o424051782#6771#55#0(6@0"424051782#0#0#0#0#0"0(13@50"Cimg_library::CImgDisplay::move(int, int)in main.o424051782#6826#57#0(6@0"424051782#0#0#0#0#0"0(13@110"Cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o424051782#6883#117#0(6@0"424051782#0#0#0#0#0"0(13@58"Cimg_library::CImgDisplay::resize(int, int, bool)in main.o424051782#7000#65#0(6@0"424051782#0#0#0#0#0"0(13@130"Cimg_library::CImgDisplay& cimg_library::CImgDisplay::render<unsigned int>(cimg_library::CImg<unsigned int> const&, bool)in main.o424051782#7065#137#0(6@0"424051782#0#0#0#0#0"0(13@132"Cimg_library::CImgDisplay& cimg_library::CImgDisplay::render<unsigned char>(cimg_library::CImg<unsigned char> const&, bool)in main.o424051782#7202#139#0(6@0"424051782#0#0#0#0#0"0(4@31""_XSendEvent", referenced from:424051782#7341#34#0(6@0"424051782#0#0#0#0#0"0(13@50"Cimg_library::CImgDisplay::_paint(bool)  in main.o424051782#7375#57#0(6@0"424051782#0#0#0#0#0"0(4@33""_XUnmapWindow", referenced from:424051782#7432#36#0(6@0"424051782#0#0#0#0#0"0(13@68"Cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o424051782#7468#75#0(6@0"424051782#0#0#0#0#0"0(4@36""_XSetWMProtocols", referenced from:424051782#7543#39#0(6@0"424051782#0#0#0#0#0"0(13@110"Cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o424051782#7582#117#0(6@0"424051782#0#0#0#0#0"0(4@36""_XAllocClassHint", referenced from:424051782#7699#39#0(6@0"424051782#0#0#0#0#0"0(13@110"Cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o424051782#7738#117#0(6@0"424051782#0#0#0#0#0"0(4@40""_XVisualIDFromVisual", referenced from:424051782#7855#43#0(6@0"424051782#0#0#0#0#0"0(13@110"Cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o424051782#7898#117#0(6@0"424051782#0#0#0#0#0"0(4@26""_XFree", referenced from:424051782#8015#29#0(6@0"424051782#0#0#0#0#0"0(13@110"Cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o424051782#8044#117#0(6@0"424051782#0#0#0#0#0"0(13@110"Cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o424051782#8161#117#0(6@0"424051782#0#0#0#0#0"0(4@39""_XSetWindowColormap", referenced from:424051782#8278#42#0(6@0"424051782#0#0#0#0#0"0(13@110"Cimg_library::CImgDisplay::_assign(unsigned int, unsigned int, char const*, unsigned int, bool, bool)in main.o424051782#8320#117#0(6@0"424051782#0#0#0#0#0"0(4@34""_XResizeWindow", referenced from:424051782#8437#37#0(6@0"424051782#0#0#0#0#0"0(13@68"Cimg_library::CImgDisplay::_handle_events(_XEvent const*)  in main.o424051782#8474#75#0(6@0"424051782#0#0#0#0#0"0(13@58"Cimg_library::CImgDisplay::resize(int, int, bool)in main.o424051782#8549#65#0(6@0"424051782#0#0#0#0#0"0(13@19"Symbol(s) not found424051782#8614#24#0(6@0"424051782#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status424051782#8638#36#0(6@0"424051782#0#0#0#0#0"0(0#0#0"4300882208#573"    cd /Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/build/Debug -F/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/build/Debug -filelist /Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/build/inpaint.build/Debug/inpaint.build/Objects-normal/x86_64/inpaint.LinkFileList -mmacosx-version-min=10.6 -o /Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/build/Debug/inpaint1#
+

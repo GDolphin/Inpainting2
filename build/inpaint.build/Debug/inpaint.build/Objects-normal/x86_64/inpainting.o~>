@@ -1,0 +1,10 @@
+/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/inpainting.cpp:14: error: 'CInpainting' has not been declared
+/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/inpainting.cpp:14: error: ISO C++ forbids declaration of 'classInpainting' with no type
+/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/inpainting.cpp:17: error: expected constructor, destructor, or type conversion before '::' token
+/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/inpainting.cpp:20: error: 'ClassInpainting' has not been declared
+/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/inpainting.cpp: In function 'void loadMask(char*)':
+/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/inpainting.cpp:21: error: 'mMask' was not declared in this scope
+/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/inpainting.cpp: At global scope:
+/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/inpainting.cpp:24: error: 'CInpainting' has not been declared
+/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/inpainting.cpp: In function 'void displayMask()':
+/Users/LesKodaux/Kiki/Programmation/Xcode/img/inpaint/inpainting.cpp:25: error: 'mMask' was not declared in this scope
